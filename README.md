@@ -1,2 +1,3 @@
-# Documentacao
-Repositório para armazenar os documentos gerados pela equipe.
+# Documentação Red Dragons
+
+Repositório utilizado para armazenar todos os documentos gerados pela equipe.
